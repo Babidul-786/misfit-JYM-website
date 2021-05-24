@@ -131,6 +131,11 @@ background: #000;
 #About_section .bannerLeft
 {
    margin-top: 15%;
+ 
+}
+#About_section .bannerLeft h1
+{
+    padding: 0px 15px;
 }
 
 #About_section .bannerLeft span
@@ -142,6 +147,7 @@ background: #000;
 #About_section .bannerLeft p
 {
     text-align: justify;
+    padding: 0px 15px;
 }
 
 #About_section a
@@ -151,6 +157,7 @@ background: #000;
     color: #fff;
     padding: 8px 23px;
     text-decoration: none;
+    margin-left: 15px;
 }
 
 #About_section a:hover
