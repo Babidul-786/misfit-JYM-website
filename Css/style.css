@@ -23,7 +23,7 @@
     max-width: 1100px;
     margin: 0 auto;
     padding: 25px 0px;
-   
+    overflow: hidden;
 }
 
 
@@ -77,7 +77,7 @@
    background-image: url(../Img/banner3.jpg);
    background-repeat: no-repeat;
    background-size: cover;
-   overflow: hidden;
+   
 }
 
 #banner .banner_content
